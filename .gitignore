@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+cmumosi/
+data/*.csv
+.pytest_cache/
